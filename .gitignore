@@ -4,7 +4,9 @@ TP1_2024/YaleB_32x32.mat
 TP2_2024/.DS_Store
 TP2_2024/YaleB_32x32.mat
 classification_challenge/data
-classification_challenge/classification_challenge_Fan_1.ipynb
 TP3_2024/data/
 TP3_2024/TP_Intro_Supervised.pdf
 requirements_ima_env.txt
+classification_challenge/hello_server.py
+TP4_2024/data/
+TP4_2024/TP_SVM.ipynb
