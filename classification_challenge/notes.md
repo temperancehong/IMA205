@@ -15,5 +15,7 @@
 - The images are of different dimension
 - 
 ## Notes for later to do 
-- [ ] Benchmark model without any pre-processing
+- [x] Benchmark model without any pre-processing (Kaggle score: 0.136)
 - [ ] Data augmentation
+- [ ] Address class imbalance with data augmentation
+- [ ] Resnet18 with balanced dataset
