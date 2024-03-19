@@ -23,9 +23,10 @@ the model expect a normalized input.
 - [x] Address class imbalance with data augmentation
 - [x] Resnet18 with balanced dataset, (**Kaggle score 0.191**)
 - [x] Resnet18 but not pretrained, (**Kaggle score 0.275**)
-- [ ] Resnet18 not pretrained with meta data integrated
-
+- [x] Resnet18 not pretrained with meta data integrated, no imbalance augmentation (**Kaggle score 0.466**)
+- [x] Resnet18 not pretrained with meta data integrated, with imbalance augmentation (**Kaggle score 0.364**)
+- [x] Unet encoder with only image, score is very low (**Kaggle score 0.149**)
 ## Log
 - Used pretrained Resnet18 model to train the dataset, general training data augmentation should only 
 be to tensor, if we add others the training score will be very low
-- 
+- Used unpretrained Resnet18 + meta data but no data augmentation for class imbalance, learning rate should be set to 0.01
