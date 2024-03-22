@@ -7,8 +7,12 @@ classification_challenge/data
 classification_challenge/classification_challenge_Fan_4.ipynb
 classification_challenge/classification_challenge_Fan_5.ipynb
 classification_challenge/classification_challenge_Fan_6.ipynb
+classification_challenge/classification_challenge_Fan_7.ipynb
 TP3_2024/data/
 TP3_2024/TP_Intro_Supervised.pdf
 requirements_ima_env.txt
 classification_challenge/hello_server.py
 TP4_2024/data/
+TP5_2024/*.pdf
+TP5_2024/*.npz
+TP5_2024/*.nii

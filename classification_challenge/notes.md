@@ -26,6 +26,7 @@ the model expect a normalized input.
 - [x] Resnet18 not pretrained with meta data integrated, no imbalance augmentation (**Kaggle score 0.466**)
 - [x] Resnet18 not pretrained with meta data integrated, with imbalance augmentation (**Kaggle score 0.364**)
 - [x] Unet encoder with only image, score is very low (**Kaggle score 0.149**)
+- [x] Vgg16 from scratch works very bad (**Kaggle score 0.124**)
 ## Log
 - Used pretrained Resnet18 model to train the dataset, general training data augmentation should only 
 be to tensor, if we add others the training score will be very low
