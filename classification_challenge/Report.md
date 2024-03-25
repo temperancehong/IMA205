@@ -70,5 +70,3 @@ Sequential forward floating selection (SFFS, result: subset size 10) and Sequent
 ## 2. Multi-features extraction based on deep learning for skin lesion classification
 
 [Link](https://www.sciencedirect.com/science/article/pii/S0040816621002172)
-
-https://www.sciencedirect.com/science/article/pii/S0040816621002172 
